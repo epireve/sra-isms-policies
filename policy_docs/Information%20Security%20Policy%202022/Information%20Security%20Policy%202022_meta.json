@@ -1,0 +1,73 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INFORMATION SECURITY POLICY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          210.8232421875,
+          72.31640625
+        ],
+        [
+          402.39935302734375,
+          72.31640625
+        ],
+        [
+          402.39935302734375,
+          85.7548828125
+        ],
+        [
+          210.8232421875,
+          85.7548828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Handwriting",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Information%20Security%20Policy%202022"
+}

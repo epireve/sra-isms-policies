@@ -1,0 +1,441 @@
+{
+  "table_of_contents": [
+    {
+      "title": "1.0 PENGENALAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.50399780273438,
+          196.31591796875
+        ],
+        [
+          179.4111328125,
+          196.31591796875
+        ],
+        [
+          179.4111328125,
+          210.29443359375
+        ],
+        [
+          66.50399780273438,
+          210.29443359375
+        ]
+      ]
+    },
+    {
+      "title": "2.0 TUJUAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.50399780273438,
+          481.4365234375
+        ],
+        [
+          146.74462890625,
+          481.4365234375
+        ],
+        [
+          146.74462890625,
+          495.4150390625
+        ],
+        [
+          66.50399780273438,
+          495.4150390625
+        ]
+      ]
+    },
+    {
+      "title": "3.0 TERMA DAN DEFINASI",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.3515625,
+          576.408203125
+        ],
+        [
+          224.08203125,
+          576.408203125
+        ],
+        [
+          224.08203125,
+          590.38671875
+        ],
+        [
+          66.3515625,
+          590.38671875
+        ]
+      ]
+    },
+    {
+      "title": "4.0 SKOP",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.26025390625,
+          177.609375
+        ],
+        [
+          131.61181640625,
+          177.609375
+        ],
+        [
+          131.61181640625,
+          191.79345703125
+        ],
+        [
+          65.26025390625,
+          191.79345703125
+        ]
+      ]
+    },
+    {
+      "title": "5.0 KATEGORI PERANTI MUDAH ALIH YANG DIBENARKAN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.4970703125,
+          234.345703125
+        ],
+        [
+          395.78125,
+          234.345703125
+        ],
+        [
+          395.78125,
+          249.146484375
+        ],
+        [
+          66.4970703125,
+          249.146484375
+        ]
+      ]
+    },
+    {
+      "title": "6.0 TATACARA (PROSIDUR) PENGGUNAAN PERISIAN SECARA PMA.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.478515625,
+          427.9892578125
+        ],
+        [
+          446.6304626464844,
+          427.9892578125
+        ],
+        [
+          446.6304626464844,
+          442.7900390625
+        ],
+        [
+          65.478515625,
+          442.7900390625
+        ]
+      ]
+    },
+    {
+      "title": "7.0 LARANGAN PENGGUNAAN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          99.818359375,
+          482.2587890625
+        ],
+        [
+          266.279296875,
+          482.2587890625
+        ],
+        [
+          266.279296875,
+          496.2373046875
+        ],
+        [
+          99.818359375,
+          496.2373046875
+        ]
+      ]
+    },
+    {
+      "title": "8.0 RISIKO / LIABILITI / PENAFIAN",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.0078125,
+          311.638671875
+        ],
+        [
+          252.892578125,
+          311.638671875
+        ],
+        [
+          252.892578125,
+          325.2060546875
+        ],
+        [
+          71.0078125,
+          325.2060546875
+        ]
+      ]
+    },
+    {
+      "title": "9.0 PERUBAHAN PADA GARIS PANDUAN",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          77.5556640625,
+          606.83203125
+        ],
+        [
+          300.3791198730469,
+          606.83203125
+        ],
+        [
+          300.3791198730469,
+          619.98828125
+        ],
+        [
+          77.5556640625,
+          619.98828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Garispanduan_PMA"
+}

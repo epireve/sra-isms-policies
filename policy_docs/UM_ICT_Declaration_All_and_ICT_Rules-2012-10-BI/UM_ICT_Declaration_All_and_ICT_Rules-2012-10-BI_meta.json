@@ -1,0 +1,219 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ICT Declaration",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.255096435546875,
+          126.19482421875
+        ],
+        [
+          89.01094818115234,
+          126.19482421875
+        ],
+        [
+          89.01094818115234,
+          136.3416748046875
+        ],
+        [
+          27.255096435546875,
+          136.3416748046875
+        ]
+      ]
+    },
+    {
+      "title": "UM ICT RULES AND REGULATIONS FOR THE USE OF COMPUTING FACILITIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          145.408935546875,
+          365.1279296875
+        ],
+        [
+          450.8984375,
+          365.1279296875
+        ],
+        [
+          450.8984375,
+          375.67169189453125
+        ],
+        [
+          145.408935546875,
+          375.67169189453125
+        ]
+      ]
+    },
+    {
+      "title": "Access to Facilities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.20062255859375,
+          384.8359375
+        ],
+        [
+          103.282470703125,
+          384.8359375
+        ],
+        [
+          103.282470703125,
+          394.16015625
+        ],
+        [
+          27.20062255859375,
+          394.16015625
+        ]
+      ]
+    },
+    {
+      "title": "Use of Facilities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.364044189453125,
+          476.3828125
+        ],
+        [
+          91.5887451171875,
+          476.3828125
+        ],
+        [
+          91.5887451171875,
+          486.1116943359375
+        ],
+        [
+          27.364044189453125,
+          486.1116943359375
+        ]
+      ]
+    },
+    {
+      "title": "Monitoring and securing the network",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          26.18377685546875,
+          8.5560302734375
+        ],
+        [
+          168.651123046875,
+          8.5560302734375
+        ],
+        [
+          168.651123046875,
+          19.41162109375
+        ],
+        [
+          26.18377685546875,
+          19.41162109375
+        ]
+      ]
+    },
+    {
+      "title": "PUSAT TEKNOLOGI MAKLUMAT (PTM), OCTOBER 2012",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          26.728515625,
+          92.28857421875
+        ],
+        [
+          238.75680541992188,
+          92.28857421875
+        ],
+        [
+          238.75680541992188,
+          102.23162841796875
+        ],
+        [
+          26.728515625,
+          102.23162841796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          31
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/UM_ICT_Declaration_All_and_ICT_Rules-2012-10-BI"
+}

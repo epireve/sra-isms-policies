@@ -1,0 +1,507 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INFORMATION COMMUNICATIONS TECHNOLOGY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.81999969482422,
+          61.11968994140625
+        ],
+        [
+          344.85595703125,
+          61.11968994140625
+        ],
+        [
+          344.85595703125,
+          73.0634765625
+        ],
+        [
+          118.81999969482422,
+          73.0634765625
+        ]
+      ]
+    },
+    {
+      "title": "ICT Declaration",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.745361328125,
+          187.0103759765625
+        ],
+        [
+          101.58898162841797,
+          187.0103759765625
+        ],
+        [
+          101.58898162841797,
+          198.6522216796875
+        ],
+        [
+          27.745361328125,
+          198.6522216796875
+        ]
+      ]
+    },
+    {
+      "title": "UM ICT RULES AND REGULATIONS FOR THE USE OF COMPUTING FACILITIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          123.25999450683594,
+          14.081298828125
+        ],
+        [
+          475.51953125,
+          14.081298828125
+        ],
+        [
+          475.51953125,
+          24.8221435546875
+        ],
+        [
+          123.25999450683594,
+          24.8221435546875
+        ]
+      ]
+    },
+    {
+      "title": "Access to Facilities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.192138671875,
+          35.99981689453125
+        ],
+        [
+          115.6787109375,
+          35.99981689453125
+        ],
+        [
+          115.6787109375,
+          46.58648681640625
+        ],
+        [
+          28.192138671875,
+          46.58648681640625
+        ]
+      ]
+    },
+    {
+      "title": "Use of Facilities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          28.0830078125,
+          191.485107421875
+        ],
+        [
+          100.90966796875,
+          191.485107421875
+        ],
+        [
+          100.90966796875,
+          202.174560546875
+        ],
+        [
+          28.0830078125,
+          202.174560546875
+        ]
+      ]
+    },
+    {
+      "title": "Monitoring and securing the network",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          28.31999969482422,
+          58.7919921875
+        ],
+        [
+          196.260009765625,
+          58.7919921875
+        ],
+        [
+          196.260009765625,
+          69.892578125
+        ],
+        [
+          28.31999969482422,
+          69.892578125
+        ]
+      ]
+    },
+    {
+      "title": "PUSAT TEKNOLOGI MAKLUMAT (PTM), AUGUST 2011",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          26.99169921875,
+          303.0048828125
+        ],
+        [
+          270.64453125,
+          303.0048828125
+        ],
+        [
+          270.64453125,
+          314.5166015625
+        ],
+        [
+          26.99169921875,
+          314.5166015625
+        ]
+      ]
+    },
+    {
+      "title": "SISWAMAIL : TERMS AND CONDITIONS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          215.75390625,
+          14.2481689453125
+        ],
+        [
+          398.0390625,
+          14.2481689453125
+        ],
+        [
+          398.0390625,
+          25.330078125
+        ],
+        [
+          215.75390625,
+          25.330078125
+        ]
+      ]
+    },
+    {
+      "title": "1. Use of the Services",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.380126953125,
+          100.93359375
+        ],
+        [
+          134.92498779296875,
+          100.93359375
+        ],
+        [
+          134.92498779296875,
+          111.955078125
+        ],
+        [
+          27.380126953125,
+          111.955078125
+        ]
+      ]
+    },
+    {
+      "title": "2. Your password and account security",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.3427734375,
+          177.4072265625
+        ],
+        [
+          212.78399658203125,
+          177.4072265625
+        ],
+        [
+          212.78399658203125,
+          188.4287109375
+        ],
+        [
+          27.3427734375,
+          188.4287109375
+        ]
+      ]
+    },
+    {
+      "title": "3. Prohibited Actions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.31999969482422,
+          285.591796875
+        ],
+        [
+          132.2314453125,
+          285.591796875
+        ],
+        [
+          132.2314453125,
+          296.806640625
+        ],
+        [
+          28.31999969482422,
+          296.806640625
+        ]
+      ]
+    },
+    {
+      "title": "4. Account Inactivity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.31999969482422,
+          513.94921875
+        ],
+        [
+          131.59500122070312,
+          513.94921875
+        ],
+        [
+          131.59500122070312,
+          525.55078125
+        ],
+        [
+          28.31999969482422,
+          525.55078125
+        ]
+      ]
+    },
+    {
+      "title": "5. Changes To The Terms",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.678955078125,
+          558.03515625
+        ],
+        [
+          152.40234375,
+          558.03515625
+        ],
+        [
+          152.40234375,
+          569.63671875
+        ],
+        [
+          27.678955078125,
+          569.63671875
+        ]
+      ]
+    },
+    {
+      "title": "6. Miscellaneous",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          27.56689453125,
+          590.51953125
+        ],
+        [
+          112.38001251220703,
+          590.51953125
+        ],
+        [
+          112.38001251220703,
+          601.34765625
+        ],
+        [
+          27.56689453125,
+          601.34765625
+        ]
+      ]
+    },
+    {
+      "title": "Refer : Google Apps Terms",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          28.31999969482422,
+          655.875
+        ],
+        [
+          148.9658203125,
+          655.875
+        ],
+        [
+          148.9658203125,
+          666.703125
+        ],
+        [
+          28.31999969482422,
+          666.703125
+        ]
+      ]
+    },
+    {
+      "title": "PUSAT TEKNOLOGI MAKLUMAT (PTM), AUGUST 2011",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          26.52099609375,
+          735.5390625
+        ],
+        [
+          269.841796875,
+          735.5390625
+        ],
+        [
+          269.841796875,
+          746.6234931945801
+        ],
+        [
+          26.52099609375,
+          746.6234931945801
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/UM_Students_ICT_Declaration_Full_050911"
+}

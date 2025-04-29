@@ -1,0 +1,525 @@
+{
+  "table_of_contents": [
+    {
+      "title": "POLISI PERKHIDMATAN PENGKOMPUTERAN AWAN AWAM\n(PUBLIC CLOUD COMPUTING SERVICE POLICY)\nUNIVERSITI MALAYA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          149.2646484375,
+          71.9296875
+        ],
+        [
+          499.640625,
+          71.9296875
+        ],
+        [
+          499.640625,
+          117.17578125
+        ],
+        [
+          149.2646484375,
+          117.17578125
+        ]
+      ]
+    },
+    {
+      "title": "1. LATAR BELAKANG",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          107.578125,
+          145.986328125
+        ],
+        [
+          241.154296875,
+          145.986328125
+        ],
+        [
+          241.154296875,
+          160.681640625
+        ],
+        [
+          107.578125,
+          160.681640625
+        ]
+      ]
+    },
+    {
+      "title": "2. TUJUAN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.75634765625,
+          365.0625
+        ],
+        [
+          177.205078125,
+          365.0625
+        ],
+        [
+          177.205078125,
+          378.9900817871094
+        ],
+        [
+          106.75634765625,
+          378.9900817871094
+        ]
+      ]
+    },
+    {
+      "title": "3. DAFTAR KATA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.0199966430664,
+          454.39453125
+        ],
+        [
+          214.7080078125,
+          454.39453125
+        ],
+        [
+          214.7080078125,
+          469.08984375
+        ],
+        [
+          108.0199966430664,
+          469.08984375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Maklumat",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          125.806640625,
+          481.078125
+        ],
+        [
+          211.271484375,
+          481.078125
+        ],
+        [
+          211.271484375,
+          494.269287109375
+        ],
+        [
+          125.806640625,
+          494.269287109375
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Maklumat Terperingkat",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          125.208984375,
+          524.00390625
+        ],
+        [
+          277.3125,
+          524.00390625
+        ],
+        [
+          277.3125,
+          537.92578125
+        ],
+        [
+          125.208984375,
+          537.92578125
+        ]
+      ]
+    },
+    {
+      "title": "3.4 Klasifikasi Maklumat1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          125.806640625,
+          71.20458984375
+        ],
+        [
+          267.75,
+          71.20458984375
+        ],
+        [
+          267.75,
+          85.22314453125
+        ],
+        [
+          125.806640625,
+          85.22314453125
+        ]
+      ]
+    },
+    {
+      "title": "4. SKOP",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          107.65283203125,
+          148.2099609375
+        ],
+        [
+          161.3671875,
+          148.2099609375
+        ],
+        [
+          161.3671875,
+          161.9384765625
+        ],
+        [
+          107.65283203125,
+          161.9384765625
+        ]
+      ]
+    },
+    {
+      "title": "5. POLISI",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          106.98046875,
+          266.44921875
+        ],
+        [
+          168.5390625,
+          266.44921875
+        ],
+        [
+          168.5390625,
+          279.59765625
+        ],
+        [
+          106.98046875,
+          279.59765625
+        ]
+      ]
+    },
+    {
+      "title": "6. PELANGGARAN POLISI",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          107.7275390625,
+          260.26171875
+        ],
+        [
+          255.6474609375,
+          260.26171875
+        ],
+        [
+          255.6474609375,
+          273.796875
+        ],
+        [
+          107.7275390625,
+          273.796875
+        ]
+      ]
+    },
+    {
+      "title": "7. TARIKH KUATKUASA",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          107.279296875,
+          435.4453125
+        ],
+        [
+          244.44140625,
+          435.4453125
+        ],
+        [
+          244.44140625,
+          448.59375
+        ],
+        [
+          107.279296875,
+          448.59375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          220
+        ],
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Polisi%20Public%20Cloud%20(UM)"
+}

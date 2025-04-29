@@ -1,0 +1,587 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Information Security Management System\nISO/IEC 27001:2013",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.560001373291016,
+          200.42724609375
+        ],
+        [
+          514.515625,
+          200.42724609375
+        ],
+        [
+          514.515625,
+          267.03076171875
+        ],
+        [
+          46.560001373291016,
+          267.03076171875
+        ]
+      ]
+    },
+    {
+      "title": "WIRELESS COMMUNICATION POLICY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.73999786376953,
+          378.2421875
+        ],
+        [
+          477.265625,
+          378.2421875
+        ],
+        [
+          477.265625,
+          404.9658203125
+        ],
+        [
+          120.73999786376953,
+          404.9658203125
+        ]
+      ]
+    },
+    {
+      "title": "DASAR KOMUNIKASI TANPA WAYAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          122.0810546875,
+          430.044921875
+        ],
+        [
+          476.1015625,
+          430.044921875
+        ],
+        [
+          476.1015625,
+          455.53515625
+        ],
+        [
+          122.0810546875,
+          455.53515625
+        ]
+      ]
+    },
+    {
+      "title": "Revision History",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          227.3300018310547,
+          224.0673828125
+        ],
+        [
+          358.240234375,
+          224.0673828125
+        ],
+        [
+          358.240234375,
+          244.212890625
+        ],
+        [
+          227.3300018310547,
+          244.212890625
+        ]
+      ]
+    },
+    {
+      "title": "1.0 Purpose",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.02399444580078,
+          230.234375
+        ],
+        [
+          164.423828125,
+          230.234375
+        ],
+        [
+          164.423828125,
+          243.8017578125
+        ],
+        [
+          72.02399444580078,
+          243.8017578125
+        ]
+      ]
+    },
+    {
+      "title": "2.0 Scope",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.95361328125,
+          309.78857421875
+        ],
+        [
+          154.23828125,
+          309.78857421875
+        ],
+        [
+          154.23828125,
+          323.35595703125
+        ],
+        [
+          71.95361328125,
+          323.35595703125
+        ]
+      ]
+    },
+    {
+      "title": "3.0 Policy",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.407958984375,
+          515.560546875
+        ],
+        [
+          155.40234375,
+          515.560546875
+        ],
+        [
+          155.40234375,
+          529.5390625
+        ],
+        [
+          71.407958984375,
+          529.5390625
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Access Point and Controllers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          112.25927734375,
+          547.62890625
+        ],
+        [
+          327.392578125,
+          547.62890625
+        ],
+        [
+          327.392578125,
+          561.607421875
+        ],
+        [
+          112.25927734375,
+          561.607421875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Wireless Users",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          113.787109375,
+          283.88720703125
+        ],
+        [
+          247.36328125,
+          283.88720703125
+        ],
+        [
+          247.36328125,
+          297.83001708984375
+        ],
+        [
+          113.787109375,
+          297.83001708984375
+        ]
+      ]
+    },
+    {
+      "title": "1.0 Tujuan",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.02399444580078,
+          191.690673828125
+        ],
+        [
+          154.8203125,
+          191.690673828125
+        ],
+        [
+          154.8203125,
+          205.669189453125
+        ],
+        [
+          72.02399444580078,
+          205.669189453125
+        ]
+      ]
+    },
+    {
+      "title": "2.0 Skop",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.02399444580078,
+          286.1484375
+        ],
+        [
+          146.59912109375,
+          286.1484375
+        ],
+        [
+          146.59912109375,
+          300.23004150390625
+        ],
+        [
+          72.02399444580078,
+          300.23004150390625
+        ]
+      ]
+    },
+    {
+      "title": "3.0 Polisi",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.262451171875,
+          512.6826171875
+        ],
+        [
+          147.8359375,
+          512.6826171875
+        ],
+        [
+          147.8359375,
+          526.6611328125
+        ],
+        [
+          71.262451171875,
+          526.6611328125
+        ]
+      ]
+    },
+    {
+      "title": "3.1 Access Point dan Controller",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          106.802734375,
+          544.33984375
+        ],
+        [
+          311.095703125,
+          544.33984375
+        ],
+        [
+          311.095703125,
+          558.318359375
+        ],
+        [
+          106.802734375,
+          558.318359375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Pengguna Rangkaian Tanpa Wayar",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          107.09375,
+          273.814453125
+        ],
+        [
+          350.673828125,
+          273.814453125
+        ],
+        [
+          350.673828125,
+          288.615234375
+        ],
+        [
+          107.09375,
+          288.615234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/35-wireless-communication-policy-ver-1-3"
+}

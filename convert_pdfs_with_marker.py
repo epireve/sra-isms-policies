@@ -24,6 +24,20 @@ MARKER_OPTIONS = [
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
+# Run marker on the whole downloads/ folder
+cmd = [
+    "env",
+    f"GOOGLE_API_KEY={GOOGLE_API_KEY}",
+    MARKER_PATH,
+    INPUT_DIR,
+    *MARKER_OPTIONS,
+]
+result = subprocess.run(cmd, capture_output=True, text=True)
+if result.returncode == 0:
+    print("Marker batch conversion completed.")
+else:
+    print("Marker batch conversion failed:", result.stderr)
+
 # Load the CSV
 df = pd.read_csv("documents_catalog.csv")
 
@@ -31,32 +45,21 @@ df = pd.read_csv("documents_catalog.csv")
 if "marker_conversion" not in df.columns:
     df["marker_conversion"] = ""
 
-# Find all PDF files in the catalog
+# Check for each PDF if the corresponding Markdown file exists
 for idx, row in df.iterrows():
     if (
         row["type"] == "PDF Document"
         and isinstance(row["local_path"], str)
         and row["local_path"].endswith(".pdf")
     ):
-        pdf_path = row["local_path"]
-        try:
-            # Build the marker command
-            cmd = [
-                "env",
-                f"GOOGLE_API_KEY={GOOGLE_API_KEY}",
-                MARKER_PATH,
-                pdf_path,
-                *MARKER_OPTIONS,
-            ]
-            # Run the marker CLI
-            result = subprocess.run(cmd, capture_output=True, text=True)
-            if result.returncode == 0:
-                df.at[idx, "marker_conversion"] = "success"
-            else:
-                df.at[idx, "marker_conversion"] = f"fail: {result.stderr.strip()}"
-        except Exception as e:
-            df.at[idx, "marker_conversion"] = f"fail: {str(e)}"
+        pdf_filename = os.path.splitext(os.path.basename(row["local_path"]))[0]
+        # Marker outputs .md files with the same base name
+        md_path = os.path.join(OUTPUT_DIR, pdf_filename + ".md")
+        if os.path.exists(md_path):
+            df.at[idx, "marker_conversion"] = "success"
+        else:
+            df.at[idx, "marker_conversion"] = "fail: markdown not found"
 
 # Save the updated CSV
 df.to_csv("documents_catalog.csv", index=False)
-print("PDF conversion complete. Updated catalog saved.")
+print("PDF conversion status updated in catalog.")

@@ -1,0 +1,344 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Information Security Management System\nISO/IEC 27001:2013",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.689453125,
+          206.388671875
+        ],
+        [
+          534.88671875,
+          206.388671875
+        ],
+        [
+          534.88671875,
+          273.814453125
+        ],
+        [
+          45.689453125,
+          273.814453125
+        ]
+      ]
+    },
+    {
+      "title": "TERMINATION POLICY\nPOLISI PENAMATAN / PELETAKAN \nJAWATAN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          246.65000915527344,
+          47.76849365234375
+        ],
+        [
+          421.5456848144531,
+          47.76849365234375
+        ],
+        [
+          421.5456848144531,
+          92.7115478515625
+        ],
+        [
+          246.65000915527344,
+          92.7115478515625
+        ]
+      ]
+    },
+    {
+      "title": "Revision History",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          249.8369140625,
+          159.31396484375
+        ],
+        [
+          355.62109375,
+          159.31396484375
+        ],
+        [
+          355.62109375,
+          176.787109375
+        ],
+        [
+          249.8369140625,
+          176.787109375
+        ]
+      ]
+    },
+    {
+      "title": "1.0 Purpose",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          72.02399444580078,
+          158.800048828125
+        ],
+        [
+          161.22265625,
+          158.800048828125
+        ],
+        [
+          161.22265625,
+          172.161865234375
+        ],
+        [
+          72.02399444580078,
+          172.161865234375
+        ]
+      ]
+    },
+    {
+      "title": "2.0 Scope",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.698974609375,
+          305.4716796875
+        ],
+        [
+          151.037109375,
+          305.4716796875
+        ],
+        [
+          151.037109375,
+          319.4501953125
+        ],
+        [
+          71.698974609375,
+          319.4501953125
+        ]
+      ]
+    },
+    {
+      "title": "3.0 Policy",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.95361328125,
+          405.99365234375
+        ],
+        [
+          150.1640625,
+          405.99365234375
+        ],
+        [
+          150.1640625,
+          419.56103515625
+        ],
+        [
+          71.95361328125,
+          419.56103515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 2,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 6,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 1,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/22%20Termination%20Policy%20Ver%201.6"
+}
