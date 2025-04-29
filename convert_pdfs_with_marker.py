@@ -39,6 +39,8 @@ else:
     print("Marker batch conversion failed:", result.stderr)
 
 # Load the CSV
+# We want to preserve any extra columns (like 'reference') that may have been added
+# This ensures we don't lose data when updating the marker_conversion column
 df = pd.read_csv("documents_catalog.csv")
 
 # Add a new column for conversion status if not present

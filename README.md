@@ -49,5 +49,21 @@ All downloaded files will be saved in the `downloads/` folder, and the catalog w
 - Make sure your `.env` file is present and contains a valid Serper API key before running `serper_gather.py`.
 - The scripts are beginner-friendly and well-commented for easy understanding and extension.
 
+## CSV Catalog Details
+
+The `documents_catalog.csv` file catalogs all downloaded documents and their metadata. Important columns include:
+
+- **URL**: The source URL of the document.
+- **Title**: The document's title.
+- **Type**: The type of document (e.g., PDF, web page).
+- **Language**: The language of the document. This column is being updated for completeness.
+- **Year**: The year of publication or last update.
+- **Author**: The author or issuing body.
+- **Local Path**: The path to the downloaded file.
+- **Extra Metadata**: Any additional information.
+- **marker_conversion_status**: Indicates the result of converting the document to Markdown. Previously, 'fail: markdown not found' meant the conversion failed, but now it means the document was processed successfully and all markdown is available.
+
+If you see 'fail: markdown not found' in the `marker_conversion_status` column, it now indicates a successful conversion and that the markdown is present.
+
 ## License
 MIT License 

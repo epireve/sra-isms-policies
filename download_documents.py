@@ -66,6 +66,25 @@ def download_web(url, save_dir):
         return "", "", "", "", {}
 
 
+# Helper function to generate APA 7th edition reference
+# This function creates a citation string based on the available metadata
+# If author or year is missing, it uses 'No author' or 'n.d.'
+def generate_apa_reference(row):
+    author = row.get("author", "") or "No author"
+    year = row.get("year", "") or "n.d."
+    title = row.get("title", "") or "[No title]"
+    url = row.get("url", "")
+    doc_type = row.get("type", "")
+    # APA 7th for web documents: Title. (Year). Site Name. URL
+    # APA 7th for PDFs (reports): Author. (Year). Title (PDF). URL
+    if doc_type == "Web Document":
+        # For web, author is often missing, so just use title and year
+        return f"{title}. ({year}). {url}"
+    else:
+        # For PDF, use author, year, title, and url
+        return f"{author}. ({year}). {title} (PDF). {url}"
+
+
 # Main script
 def main():
     save_dir = "downloads"
@@ -99,6 +118,8 @@ def main():
                 "local_path": filename,
                 "extra_metadata": str(meta),
             }
+        # Add APA reference column
+        row["reference"] = generate_apa_reference(row)
         csv_rows.append(row)
     # Save CSV
     df = pd.DataFrame(csv_rows)
